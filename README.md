@@ -1,5 +1,8 @@
-# I'm learning Git
+# gtb-git-101
 
-Git remote is amazing.
+## Gtb Names
 
-Git and SVN.
+- The ZHANG
+- Hang Qu
+- Xiaofeng Qu
+- Guanhua Bao
